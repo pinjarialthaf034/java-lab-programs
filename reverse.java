@@ -1,5 +1,4 @@
 import my_package.*;
-import my_package.palindrome;
 public class reverse {
     public static void main(String[] args) {
         mathoper obj=new mathoper();
