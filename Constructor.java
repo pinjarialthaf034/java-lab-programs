@@ -19,9 +19,9 @@ public class Constructor
     }
     public static void main(String args[])
     {
-        Constructor obj=new constructor();
-        Constructor obj1=new constructor(121);
-        Constructor obj2=new constructor(121,123);
-        Constructor obj3=new constructor(121,123.67f);
+        Constructor obj=new Constructor();
+        Constructor obj1=new Constructor(121);
+        Constructor obj2=new Constructor(121,123);
+        Constructor obj3=new Constructor(121,123.67f);
     }
 }
