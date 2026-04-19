@@ -54,5 +54,6 @@ public class Trafficc{
 
             System.out.println("------------------");
         }
+        sc.close();
     }
 }
